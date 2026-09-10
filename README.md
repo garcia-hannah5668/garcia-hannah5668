@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hey, I'm Hannah (@garcia-hannah5668) 👋
 
-<!--
-**garcia-hannah5668/garcia-hannah5668** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer based in Paris. I spend most of my time building backend services, working on developer tooling, and maintaining open-source utilities.
 
-Here are some ideas to get you started:
+#### What I'm up to
+- Contributing patches to open-source Go and Python tooling.
+- Writing small, fast CLI utilities for local dev workflows.
+- Containerizing everything and fine-tuning my Neovim setup.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tech Stack
+- **Core:** Go, Python, JavaScript
+- **Tools:** Docker, Neovim, Linux, Git
+- **Currently learning:** Systems performance tuning and distributed task queues
+
+#### Get in touch
+Open an issue on any public repo here, start a discussion, or find me around GitHub OSS threads.
